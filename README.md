@@ -1,5 +1,6 @@
 ![Code Fellows](assets/badge.png) lab-00-install-node
 =====================================================
+[![Issues in Lab Help](https://badge.waffle.io/codefellows/seattle-javascript-401n1.svg?label=question&title=Lab%20Help)](https://waffle.io/codefellows/seattle-javascript-401n1) [![Issues in Bug](https://badge.waffle.io/codefellows/seattle-javascript-401n1.svg?label=bug&title=Bug)](https://waffle.io/codefellows/seattle-javascript-401n1)  
 
 ## Objectives
 * Install node from source
