@@ -1,4 +1,5 @@
-# lab-00-install-node
+![Code Fellows](assets/badge.png) lab-00-install-node
+=====================================================
 
 ## Objectives
 * Install node from source
